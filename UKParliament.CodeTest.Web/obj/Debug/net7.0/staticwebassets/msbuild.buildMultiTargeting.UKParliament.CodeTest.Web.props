@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UKParliament.CodeTest.Web.props" />
+</Project>

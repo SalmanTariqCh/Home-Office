@@ -1,0 +1,14 @@
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\bin\Debug\net6.0\UKParliament.CodeTest.Data.deps.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\bin\Debug\net6.0\UKParliament.CodeTest.Data.runtimeconfig.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\bin\Debug\net6.0\UKParliament.CodeTest.Data.dll
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\bin\Debug\net6.0\UKParliament.CodeTest.Data.pdb
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.csproj.AssemblyReference.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.dll
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\refint\UKParliament.CodeTest.Data.dll
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.pdb
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\UKParliament.CodeTest.Data.genruntimeconfig.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\UKParliament.CodeTest.Data\obj\Debug\net6.0\ref\UKParliament.CodeTest.Data.dll

@@ -1,0 +1,26 @@
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\bin\Debug\net6.0\appsettings.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\bin\Debug\net6.0\Home Exercise.exe
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\bin\Debug\net6.0\Home Exercise.deps.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\bin\Debug\net6.0\Home Exercise.runtimeconfig.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\bin\Debug\net6.0\Home Exercise.dll
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\bin\Debug\net6.0\Home Exercise.pdb
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.csproj.AssemblyReference.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\staticwebassets\msbuild.Home Exercise.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\staticwebassets\msbuild.build.Home Exercise.props
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Home Exercise.props
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Home Exercise.props
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\scopedcss\bundle\Home Exercise.styles.css
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.dll
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\refint\Home Exercise.dll
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.pdb
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\Home Exercise.genruntimeconfig.cache
+C:\Users\salma\OneDrive\Desktop\Personal Development\PayPoint 15-04-2023\New PDP\Technical Test\Home Exercise\Home Exercise\obj\Debug\net6.0\ref\Home Exercise.dll
